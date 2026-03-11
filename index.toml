@@ -406,6 +406,11 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
+file = "mods/player-locator-plus.pw.toml"
+hash = "7bb62be8c97ff5bad23337b066a4d1f491226cd840be3cc10489480312dd9eb9"
+metafile = true
+
+[[files]]
 file = "mods/pride-blahaj-backport.pw.toml"
 hash = "38d02cd0ce240e152e6ddb6c246492b793db6e1dd3e084787b056f6332ffeb5a"
 metafile = true
