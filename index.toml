@@ -6,6 +6,11 @@ hash = "bb6c349471139b104a3d8001650ecaee747b596e1f5ca865157a8026e8182f61"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "f7933fc2034c3eb8601f3eddaa75f03d0a3f68dce19ee553aed57d35163cb21a"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "e94fd2f80b6029f19fb0c68d5bbf443a21645af0d668c5a544e3b3f23508fb61"
 metafile = true
