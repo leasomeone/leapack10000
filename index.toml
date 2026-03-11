@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "addmods.bat"
-hash = "053fd2a058d869b5e05f4413609eb8ae58a4a8e9c2a9d3ea409a7fd8f9093ecf"
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "bb6c349471139b104a3d8001650ecaee747b596e1f5ca865157a8026e8182f61"
 metafile = true
