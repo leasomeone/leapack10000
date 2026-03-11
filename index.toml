@@ -26,11 +26,6 @@ hash = "a225404286ee9479f97a8545c96dca0c8e78a1aff1f8546d55915373196a81c0"
 metafile = true
 
 [[files]]
-file = "mods/azurelib.pw.toml"
-hash = "bf9711d674219c38d0190842da3f3b4ffe53f8d5f4dad908fbc98820050d56da"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "30eff8901d5955ab62196e335926047f6c00278fd95eb04b4e4b7122a8c31f15"
 metafile = true
@@ -161,11 +156,6 @@ hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
 metafile = true
 
 [[files]]
-file = "mods/immersive-guns.pw.toml"
-hash = "9d189c21f474853632889cf4bf3f30261dfd15f812940d279c36eeda7605253c"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -213,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/loot-beams-up.pw.toml"
 hash = "0bd0125a75e2e84a6e71b4c20ac35cdcbf968e2160c326fa030276c4bf0c0c7f"
-metafile = true
-
-[[files]]
-file = "mods/mcpitanlibarch.pw.toml"
-hash = "d7a44ab25cd968370acdf82806c24c9e78c90924d79c4575f8ccd77845145d4e"
 metafile = true
 
 [[files]]
@@ -298,11 +283,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
-metafile = true
-
-[[files]]
-file = "mods/simple-uncrafting-table.pw.toml"
-hash = "a14cded8b6f9437781886a9049a2f8ade0a06515e7d6373f9e20d34f1c86bd92"
 metafile = true
 
 [[files]]
