@@ -1,0 +1,13 @@
+name = "Dust's Keymap"
+filename = "keymap-0.9.0-beta.1+1.20.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B5uMasrz/versions/USuDYCEC/keymap-0.9.0-beta.1%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "0d64555ef186c32272e9ab03b414118e520d77e5d8dacaf6bdb6ba58bc6fb28930f7ccd2022e6c84203c0862af9e71067d239c911a7c8c0f765ee04908b6dbfe"
+
+[update]
+[update.modrinth]
+mod-id = "B5uMasrz"
+version = "USuDYCEC"

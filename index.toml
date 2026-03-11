@@ -126,6 +126,11 @@ hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
 
 [[files]]
+file = "mods/dusts-keymap.pw.toml"
+hash = "65f9624ab7c5c5cd18016b1c9232e802e0a5ba8ec80fc70913d0e0be19e74948"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "1cce22b9d322f625a5bbe720e500afc3270e37d487691313079d3213905ef1cb"
 metafile = true
