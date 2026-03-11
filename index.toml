@@ -256,6 +256,11 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
+file = "mods/ironchests.pw.toml"
+hash = "fc3a2ab77cbe31040c59d1ba8cbd5283a9e6d2603ccf64784bd33205d4da81f1"
+metafile = true
+
+[[files]]
 file = "mods/item-borders.pw.toml"
 hash = "f5de86bcb2be4853227bceb5ffb593da2dcbf38d98e690dcf2f8eac008785b00"
 metafile = true
@@ -288,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/loot-beams-up.pw.toml"
 hash = "0bd0125a75e2e84a6e71b4c20ac35cdcbf968e2160c326fa030276c4bf0c0c7f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "0f170663bb0f70d773ac5c3d24f09747253c5ba8a855b3a45fe7f1952e574b78"
 metafile = true
 
 [[files]]
@@ -443,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "5cd3420078c7c24bf7414c7243a69b2d2a21c3c5e29150444697b11a001c44d8"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "a7cff3a04db0673f1a5a9513015c83ae0a6bee936a8c6a1ed08ae12e0e3ba2f6"
 metafile = true
 
 [[files]]
