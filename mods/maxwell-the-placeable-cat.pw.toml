@@ -1,0 +1,13 @@
+name = "Maxwell the placeable cat"
+filename = "placeablemaxwell-fabric-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8yMHBbeg/versions/1nkz9nih/placeablemaxwell-fabric-1.20.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "2435970f5157da8c7ced5c049682c3af4f28c2fea85255e1bbbb9953e79ca03fe6ad3e715f27739bb534959b43242315e9f0f525a32c93a1d253cbc857faf59c"
+
+[update]
+[update.modrinth]
+mod-id = "8yMHBbeg"
+version = "1nkz9nih"

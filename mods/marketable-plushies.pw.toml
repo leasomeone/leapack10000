@@ -1,0 +1,13 @@
+name = "Marketable Plushies"
+filename = "marketableplushies 1.0.1 -fabric 1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XIbuUsKA/versions/MAQyNHDH/marketableplushies%201.0.1%20-fabric%201.20.jar"
+hash-format = "sha512"
+hash = "9015f6231ab96996f043551676890c3d8c4d8046bd95be1a205c6c0fba1e8d83b8a8a93e9cb422eab3e59fe5d7fe5a5d3d672c8a722e712b69cc91608f9ad778"
+
+[update]
+[update.modrinth]
+mod-id = "XIbuUsKA"
+version = "MAQyNHDH"

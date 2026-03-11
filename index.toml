@@ -21,6 +21,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "884814a2b4276def6b0a2ae55d748115e5da30fb439889923be2baec8b70dbaa"
+metafile = true
+
+[[files]]
 file = "mods/autotag.pw.toml"
 hash = "a225404286ee9479f97a8545c96dca0c8e78a1aff1f8546d55915373196a81c0"
 metafile = true
@@ -48,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "04917e80342632584604a9020377bc80a8b8bf00449c093356fe9213dfd7f78a"
+metafile = true
+
+[[files]]
+file = "mods/chested-companions.pw.toml"
+hash = "16f92916cca62131a6f8003ed07d8a80f4f2ce34d8535d265c58bd1772832153"
 metafile = true
 
 [[files]]
@@ -191,6 +201,11 @@ hash = "8508e46b7e272d79dc6b3cc0149f9fd132c701369bcb2abb5c35da3ed92b27fb"
 metafile = true
 
 [[files]]
+file = "mods/leashable-collars.pw.toml"
+hash = "1f07d2b172b4f14ed7cb8c7e9dacb6e140a0b2fd830c00393a72a69ed8627603"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "ef561650c251d4780b9cb948ddcacd4f43abe0dc0e31cb1aa22bac0147fe805e"
 metafile = true
@@ -203,6 +218,16 @@ metafile = true
 [[files]]
 file = "mods/loot-beams-up.pw.toml"
 hash = "0bd0125a75e2e84a6e71b4c20ac35cdcbf968e2160c326fa030276c4bf0c0c7f"
+metafile = true
+
+[[files]]
+file = "mods/marketable-plushies.pw.toml"
+hash = "290146a501ce6687a08cdeaf81831fbb8f4937b5de02f9e240b54716a951a9bc"
+metafile = true
+
+[[files]]
+file = "mods/maxwell-the-placeable-cat.pw.toml"
+hash = "0bc91c737dc8ff1231f082f825779832d58568dece9dd124199f5a1291cf8e80"
 metafile = true
 
 [[files]]
@@ -303,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/tierify.pw.toml"
 hash = "a4b0b5f3499d1a153912c29b59e6a22d4038a5e0d9ddfe2ecdd11ed7a3bf61b6"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
