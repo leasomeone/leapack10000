@@ -56,11 +56,6 @@ hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
 metafile = true
 
 [[files]]
-file = "mods/blaha-replushed.pw.toml"
-hash = "a3751624d77f31587695c346ee8ca53ace301a8582da36290c133111cc7a0c1e"
-metafile = true
-
-[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
 metafile = true
@@ -343,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/pride-blahaj-backport.pw.toml"
+hash = "38d02cd0ce240e152e6ddb6c246492b793db6e1dd3e084787b056f6332ffeb5a"
 metafile = true
 
 [[files]]
