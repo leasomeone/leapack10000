@@ -66,6 +66,11 @@ hash = "16f92916cca62131a6f8003ed07d8a80f4f2ce34d8535d265c58bd1772832153"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "d226ea199a740bff4e07877a952dc6972273fb92fcddd258a8989bfbede63a8d"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
 metafile = true
@@ -251,6 +256,11 @@ hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
 metafile = true
 
 [[files]]
+file = "mods/moderate-loading-screen.pw.toml"
+hash = "0d2b64174bb11bd09ca75b159fef3c9bfda6d6896fddcd163d1024af7370414c"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
 metafile = true
@@ -383,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "9d9ab7248c5a9ed01ce3e23fba5c60139065e31d94452e3179b263ac4be535aa"
+metafile = true
+
+[[files]]
+file = "mods/xxl-packets.pw.toml"
+hash = "2ebccfef870b790452fa9a3d6868f7857757c99e1432138e73a9631d186947e5"
 metafile = true
 
 [[files]]
