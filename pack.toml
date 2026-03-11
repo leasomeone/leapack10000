@@ -1,0 +1,13 @@
+name = "leapack10000"
+author = "lea"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dfa2114bb8dea2c95a07364e85ae3cbae8b04435599a558160f571f4345c39b8"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"

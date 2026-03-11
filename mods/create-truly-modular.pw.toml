@@ -1,0 +1,13 @@
+name = "Create: Truly Modular"
+filename = "truly_modular_create_compat-fabric-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yi2BJuVN/versions/SqIbr2pr/truly_modular_create_compat-fabric-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "57d03135491a34a2e0f9650b297d55157633d1ca403cbf324167fedc5e862eab82580aef116ddff2f94b3ce91fbf57a55682833df08ced4a9e509b4629c186d0"
+
+[update]
+[update.modrinth]
+mod-id = "yi2BJuVN"
+version = "SqIbr2pr"

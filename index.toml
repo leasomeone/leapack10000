@@ -1,0 +1,60 @@
+hash-format = "sha256"
+
+[[files]]
+file = "addmods.bat"
+hash = "053fd2a058d869b5e05f4413609eb8ae58a4a8e9c2a9d3ea409a7fd8f9093ecf"
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "bb6c349471139b104a3d8001650ecaee747b596e1f5ca865157a8026e8182f61"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "e94fd2f80b6029f19fb0c68d5bbf443a21645af0d668c5a544e3b3f23508fb61"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "f3f98ccb142504aa558f3250b5a9bcda5d9fb45634562a4b7f886489575f6f5a"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "333dfa2b93c688ce5f9f685f77cb62e5df8b9c8d21a2c4dd4eb9232aa85dccff"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
+metafile = true
+
+[[files]]
+file = "mods/create-truly-modular.pw.toml"
+hash = "f68d50965d4885fa43fa6c8d3e8567eb9c3b5de70b2e58ea6cd4ffd0820ca623"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1ee56d5feb0ede9397b26f3c5b7543a3556088146d154b55172ef0e8b1a97705"
+metafile = true
+
+[[files]]
+file = "mods/modular-item-api.pw.toml"
+hash = "0e37e80c85b2bf0285285809842e4909445db7c2a3f6bea3a96f78cf1dc72123"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "17dfbcae49d313325bb4e8ea55ba1185cafd04281096c66bec5307dbb332a106"
+metafile = true
+
+[[files]]
+file = "mods/truly-modular-armory.pw.toml"
+hash = "4ced7bda01ed740aa6330e6645ceef2b3d7a7bc709b64f43cb3efec0079c2521"
+metafile = true
