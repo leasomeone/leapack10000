@@ -6,6 +6,11 @@ hash = "bb6c349471139b104a3d8001650ecaee747b596e1f5ca865157a8026e8182f61"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "573bc2adfc72fb395c27c371568f0af20d0e83949637b6cf1b8a555a63814956"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "f7933fc2034c3eb8601f3eddaa75f03d0a3f68dce19ee553aed57d35163cb21a"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "3c4c11e21b430e85e02437a86d78e2c828ee16bc5bac58e37d211ff4e9f80e92"
 metafile = true
 
 [[files]]
