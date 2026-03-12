@@ -231,6 +231,11 @@ hash = "3ba1f8150b574b10a258a4af832ed6fa1817b8ec2a2401fe29b303238778c1c6"
 metafile = true
 
 [[files]]
+file = "mods/give-me-hats.pw.toml"
+hash = "17de3d9e91d568a2776744572f7fb053a3e2cdc4073e31769a462e56815667e0"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
@@ -443,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "2c5d9c47c2c16b1207f1335d10f99b1ba976bdc3363784674b8907ddd96e9c0a"
+metafile = true
+
+[[files]]
+file = "mods/rings-of-ascension.pw.toml"
+hash = "658427998e574a13dc50f9b5d3893ee439cba836da50a51bf0baa0116b6711e1"
 metafile = true
 
 [[files]]
