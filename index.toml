@@ -131,6 +131,11 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "195105e5e989cd109d5f644b58eca2e06f9d487d80ea365fa42033675aac7ac7"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
@@ -426,6 +431,11 @@ hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
 metafile = true
 
 [[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "d7f20eaa93687d913a5a378a51964b34a77374f0b3961514b9f8715e9fe120bf"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
@@ -478,6 +488,16 @@ metafile = true
 [[files]]
 file = "mods/tierify.pw.toml"
 hash = "a4b0b5f3499d1a153912c29b59e6a22d4038a5e0d9ddfe2ecdd11ed7a3bf61b6"
+metafile = true
+
+[[files]]
+file = "mods/torches-n-trinkets.pw.toml"
+hash = "2717b77fa612c8310b269e6727677915fac3ed704e7af5da7d9bcfd9a6099e23"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "d4973af17081ec2f1d5aabad778331459612fc95617cda5fbcafa79ea9384c43"
 metafile = true
 
 [[files]]
