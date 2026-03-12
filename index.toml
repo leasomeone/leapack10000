@@ -411,6 +411,11 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
+file = "mods/packwiz-modpack-loader.pw.toml"
+hash = "34fc4d484605a6ad67fcce516a8635bc3f9662271c2d0d3fb39d7e89f5c63037"
+metafile = true
+
+[[files]]
 file = "mods/player-locator-plus.pw.toml"
 hash = "7bb62be8c97ff5bad23337b066a4d1f491226cd840be3cc10489480312dd9eb9"
 metafile = true
